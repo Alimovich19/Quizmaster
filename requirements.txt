@@ -14,7 +14,8 @@ passlib==1.7.4
 pyasn1==0.6.1
 pycparser==2.23
 pydantic==1.10.13            # ✅ Rust talab qilmaydi
-pydantic-settings==0.2.0     # ✅ pydantic v1 bilan mos, Rustsiz
+pydantic-settings==0.2.5
+   # ✅ pydantic v1 bilan mos, Rustsiz
 PyMySQL==1.1.0
 python-dotenv==1.0.0
 python-jose==3.3.0
